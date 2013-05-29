@@ -1,0 +1,30 @@
+{
+    "name": "soyel/html5-boilerplate",
+    "type": "symfony-bundle",
+    "description": "HTML5 Boilerplate integration in Symfony2",
+    "keywords": ["symfony", "symfony-bundle", "html5-boilerplate", "layout"],
+    "homepage": "https://github.com/soyel/html5-boilerplate-bundle",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Soyel",
+            "email": "contact@soyel.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "composer/composer": "*"
+    },
+    "autoload": {
+        "psr-0": { "Soyel\\HTML5BoilerplateBundle": "" }
+    },
+    "target-dir": "Soyel/HTML5BoilerplateBundle",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    }
+}
