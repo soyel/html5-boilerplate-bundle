@@ -1,5 +1,5 @@
 {
-    "name": "soyel/html5-boilerplate",
+    "name": "soyel/html5-boilerplate-bundle",
     "type": "symfony-bundle",
     "description": "HTML5 Boilerplate integration in Symfony2",
     "keywords": ["symfony", "symfony-bundle", "html5-boilerplate", "layout"],
